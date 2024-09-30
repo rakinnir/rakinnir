@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nazmul Islam Rakin</h1>
-<h3 align="center">A passionate data enthusiast</h3>
+<h1>Hi 👋, I'm Nazmul Islam Rakin</h1>
+<h3>A data enthusiast with a passion for uncovering insights and solving problems through data analysis and machine learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
