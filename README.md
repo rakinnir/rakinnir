@@ -46,7 +46,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/> 
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="50" height="50"/> 
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png?f=webp&w=256" alt="tableau" width="50" height="50"/> 
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
