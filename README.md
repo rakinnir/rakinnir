@@ -55,7 +55,7 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
     </a>
     <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-        <img src="https://global.discourse-cdn.com/streamlit/original/3X/3/c/3ccec8dae6656656087fdb9dfd5e30578050bf07.svg" alt="streamlit" width="50" height="50"/>
+        <img src="https://streamlit.io/" alt="streamlit" width="50" height="50"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> 
