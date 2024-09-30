@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Nazmul Islam Rakin</h1>
-<h3>Data Enthusiast | Data analytics | Aspiring Machine Learning Practitioner</h3>
+<h3>Data Enthusiast | Data analyst | Aspiring Machine Learning Practitioner</h3>
 
 ---
 
