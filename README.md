@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nazmul Islam Rakin</h1>
-<h3 align="center">Data Enthusiast | Aspiring Machine Learning Practitioner</h3>
+<h1>Hi 👋, I'm Nazmul Islam Rakin</h1>
+<h3>Data Enthusiast | Aspiring Machine Learning Practitioner</h3>
 
 ---
 
-<p align="center">I am a passionate data enthusiast with a strong foundation in data analysis and visualization. Currently expanding my expertise into Machine Learning, I'm excited to solve complex problems with data-driven insights.</p>
+<p>I am a passionate data enthusiast with a strong foundation in data analysis and visualization. Currently expanding my expertise into Machine Learning, I'm excited to solve complex problems with data-driven insights.</p>
 
 ---
 
