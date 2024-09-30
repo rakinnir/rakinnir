@@ -12,8 +12,9 @@
 - **Programming Languages**: Python, JavaScript (JS), TypeScript (TS), HTML, CSS
 - **Data Analysis & Visualization**: Pandas, Seaborn, Matplotlib, Excel, Power BI, Tableau
 - **Databases**: MySQL, MSSQL
-- **Machine Learning**: Basic Machine Learning (scikit-learn, etc.), Streamlit
+- **Machine Learning**: Basic Machine Learning (scikit-learn, etc.)
 - **Version Control**: Git, GitHub
+- **Framework**: Streamlit, React
 
 ---
 
@@ -66,30 +67,35 @@
 ### 🌱 Currently Learning
 
 - Advanced Machine Learning (ML) techniques
-- Deep Dive into Data Engineering concepts
 - Continuous improvements in data visualization techniques
 
 ---
 
 ### 📫 How to reach me:
 
-- Email: [nazmulrakin.dev@gmail.com](mailto:nazmulrakin.dev@gmail.com)
-- LinkedIn: [Nazmul Islam Rakin](https://www.linkedin.com/in/nazmul-islam-rakin/)
-- Portfolio: Coming soon!
+- Email: [nazmulislamrakin@gmail.com](mailto:nazmulislamrakin@gmail.com)
+- LinkedIn: [Nazmul Islam Rakin](https://www.linkedin.com/in/nazmul-islam-rakin-7a7ba5302/)
+- Portfolio: [https://nazmulislamrakin.free.nf/](https://nazmulislamrakin.free.nf/)
 
 ---
 
 ### 🔗 Let's Connect!
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/nazmul-islam-rakin/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/nazmul-islam-rakin-7a7ba5302/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin"/>
     </a>
-    <a href="mailto:nazmulrakin.dev@gmail.com" target="_blank" rel="noreferrer">
+    <a href="mailto:nazmulislamrakin@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email"/>
     </a>
-    <a href="https://github.com/your-username" target="_blank" rel="noreferrer">
+    <a href="https://github.com/rakinnir" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="github"/>
+    </a>
+    <a href="https://www.facebook.com/rakin.rakin.790/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="facebook"/>
+    </a>
+    <a href="https://wa.me/8801703808991" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="whatsapp"/>
     </a>
 </p>
 
