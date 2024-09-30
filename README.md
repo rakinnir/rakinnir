@@ -37,7 +37,7 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
     </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="50" height="50"/>
+        <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="50" height="50"/>
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="50" height="50"/> 
