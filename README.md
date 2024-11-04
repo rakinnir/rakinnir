@@ -94,7 +94,7 @@
     <a href="https://www.facebook.com/rakin.rakin.790/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="facebook"/>
     </a>
-    <a href="https://wa.me/8801703808991" target="_blank" rel="noreferrer">
+    <a href="https://wa.me/8801611532244" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="whatsapp"/>
     </a>
 </p>
